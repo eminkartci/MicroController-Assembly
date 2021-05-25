@@ -1,0 +1,8 @@
+main
+	__CC2DW
+		____DoICP
+	reset
+	assignValues
+		combineNumbers
+interrupt
+	increment
